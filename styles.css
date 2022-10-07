@@ -1,0 +1,25 @@
+body {
+    background-image: url("./img/fonBlack.jpeg");
+}
+
+.bg-light b{
+font-family: cursive;
+font-size: 25px;
+
+}
+
+.corous {
+    flex-wrap: wrap;
+}
+
+.imageFond {
+    display: flex;
+    margin-top: 35px;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.imageFond img {
+    height: 150px;
+}
